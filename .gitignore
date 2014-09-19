@@ -2,6 +2,6 @@
 *.txt
 *.docx
 *.zip
-RayTracer/RayTracer/images
-RayTracer/ipch
-RayTracer/RayTracer/Debug
+RayTracer/RayTracer/images/*
+RayTracer/ipch/*
+RayTracer/RayTracer/Debug/*
