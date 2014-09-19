@@ -1,0 +1,1 @@
+Source code for a Ray Tracer developed in C++. The book "Ray Tracing From The Ground Up" and lectures by Ken Cameron at the University of Bristol provided the basis for the algorithms and techniques used in this project.
